@@ -1,9 +1,9 @@
 ﻿/* 사용자 설정 부분 */
 :root {
 	   --bgColor: #ffd4e1;   /* 배경 색 */
-	 --mainColor: #b28391;   /* 메인 컬러 */
-	--mainColor5: #99544255; /* 공지, 인기글 hover */
-	--mainColor3: #cca09533; /* 공지, 인기글 */
+	 --mainColor: #ffbed9;   /* 메인 컬러 */
+	--mainColor5: #e676ff55; /* 공지, 인기글 hover */
+	--mainColor3: #cc95bf33; /* 공지, 인기글 */
 	--mainColor2: #f6c7ff22; /* 트게더 메뉴, 게시글 hover */
 	--before: "배고픈 핏쥐단"; /* 접속자 수 앞 문구 */
 	--after: "명";  /* 접속자 수 뒤 문구 */
@@ -112,7 +112,7 @@ header #header-bar>.row {
 }
 
 #main .menu-wrapper>.header {
-	background: linear-gradient(200deg, #f7d6ffd6 1%,#dd00fbb3 30%,#ff1576b5 80% ,#f596968a 100%);
+	background: linear-gradient(200deg, #f7d6ffd6 1%,#fb0099b3 30%,#ff15cdb5 80% ,#f596968a 100%);
 	border-radius: 10px 10px 0 0;
 }
 
